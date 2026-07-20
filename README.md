@@ -3,8 +3,11 @@ This project analyses NYC taxi trip data using Tableau to explore trip performan
 
 ## Tools Used:
 1.Tableau
+
 2.Excel
+
 3.NYC TLC Taxi Trip Records
+
 4.NYC Taxi Zones Dataset
           
 ## Dashboards:
