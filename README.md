@@ -33,13 +33,13 @@ This project analyses NYC taxi trip data using Tableau to explore trip performan
 4.Trips by Borough
 
 ## Key Insights:
-1. Most taxi trips involve a single passenger.
+1.Most taxi trips involve a single passenger.
  
-2. Credit card payments generate the highest revenue.
+2.Credit card payments generate the highest revenue.
  
-3. Taxi demand increases throughout the day, with peak activity in the afternoon and evening.
+3.Taxi demand increases throughout the day, with peak activity in the afternoon and evening.
    
-4. Manhattan records the highest pickup activity.
+4.Manhattan records the highest pickup activity.
    
 ## Data Source:
 
