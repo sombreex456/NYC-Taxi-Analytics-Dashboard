@@ -10,6 +10,7 @@ Tools Used:
 Dashboards:
 
 Dashboard 1 – Performance Overview
+[Dashboard live link :](https://public.tableau.com/views/NYC_Taxi_2025_Dashboard2/NYCTaxiDashboardTripOverview?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) 
 
 1.KPI metrics (Trips, Revenue, Average Fare, Average Trip Distance)
 
@@ -18,6 +19,8 @@ Dashboard 1 – Performance Overview
 3.Trips by Hour
 
 Dashboard 2 – Pickup Analysis
+[Dashboard live link :](https://public.tableau.com/views/NYC_Taxi_2025_Dashboard/NYCTaxiDashboardPickupTripAnalysis?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 1.Passenger Count Distribution
 2.Trips by Day of Week
 3.Pickup Volume by Taxi Zone
