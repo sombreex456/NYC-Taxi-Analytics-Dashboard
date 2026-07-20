@@ -34,10 +34,12 @@ This project analyses NYC taxi trip data using Tableau to explore trip performan
 
 ## Key Insights:
 1. Most taxi trips involve a single passenger.
-2. 
-3. Credit card payments generate the highest revenue.
-4. Taxi demand increases throughout the day, with peak activity in the afternoon and evening.
-5. Manhattan records the highest pickup activity.
+ 
+2. Credit card payments generate the highest revenue.
+ 
+3. Taxi demand increases throughout the day, with peak activity in the afternoon and evening.
+   
+4. Manhattan records the highest pickup activity.
    
 ## Data Source:
 
