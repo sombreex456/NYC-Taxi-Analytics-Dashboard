@@ -2,10 +2,10 @@
 This project analyses NYC taxi trip data using Tableau to explore trip performance, revenue, passenger demand, payment methods, and pickup activity. Two interactive dashboards were developed to provide insights into operational and spatial trends across New York City.
 
 ## Tools Used:
-          1.Tableau
-          2.Excel
-          3.NYC TLC Taxi Trip Records
-          4.NYC Taxi Zones Dataset
+1.Tableau
+2.Excel
+3.NYC TLC Taxi Trip Records
+4.NYC Taxi Zones Dataset
           
 ## Dashboards:
 
